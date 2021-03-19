@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # img_locate.py: 5
-Pillow == 5.4.1
+Pillow == 8.1.1
 
 # decrypt.py: 1,2
 # rea_handle.py: 9,10
