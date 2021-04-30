@@ -13,4 +13,4 @@ pycryptodome == 3.8.2
 requests == 2.21.0
 
 # decrypt.py: 6
-rsa == 4.0
+rsa == 4.7
